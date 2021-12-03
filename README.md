@@ -4,3 +4,7 @@ Python Web scraper and data parser. Extracts nutritional information from online
 - Scraper notebook produces the recipe data files
 
 - Analysis notebook calculates nutritional value of the meals
+
+
+#### Contact
+George Goldberg (2021)
